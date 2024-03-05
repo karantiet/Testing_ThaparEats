@@ -4,7 +4,7 @@ This repository contains automated tests for the Online Food Ordering Website [T
 
 ## Test Scenarios Covered
 
-1. **Login and Register Page Automation**
+1. **Login and Register Page Automation using TestNG**
    - Description: Automated tests for the login and registration pages to ensure functionality and user experience.
   
 2. **Signup Automation with Password Constraints**
