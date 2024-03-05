@@ -1,8 +1,4 @@
-Below is a template for a GitHub README file for your test automation project:
-
----
-
-# Test Automation Project: Online Food Ordering Website
+# Test Automation Project: Online Food Ordering Website [TietEats](https://tieteats.netlify.com/)
 
 This repository contains automated tests for the Online Food Ordering Website [TietEats](https://tieteats.netlify.com/). The tests are implemented using Selenium and TestNG framework.
 
